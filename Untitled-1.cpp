@@ -1,5 +1,6 @@
 #include<iostream>
 #include<math.h>
+#include<std.lib>
 using namespace std;
 class Area
 {
